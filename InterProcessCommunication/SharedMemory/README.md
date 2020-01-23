@@ -5,15 +5,14 @@
 
 Client
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/SharedMemory/7.client.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/raw/master/InterProcessCommunication/SharedMemory/7.client.c)
+
+[![code](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/SharedMemory/client.c.txt)
 
 Server
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/SharedMemory/7.server.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/raw/master/InterProcessCommunication/SharedMemory/7.server.c)
 
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/SharedMemory/README.md#output)
+[![code](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/SharedMemory/server.c.txt)
+
 
 ## Theory
 
