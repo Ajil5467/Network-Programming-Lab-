@@ -3,9 +3,8 @@
 
 # 1. Interprocess communication with pipe
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/pipe/5.pipe_message.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/raw/master/InterProcessCommunication/pipe/5.pipe_message.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/pipe/README.md#output1)
+
+[![code](https://img.shields.io/badge/-code-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/message.c.txt)
 
 ### Algorithm
 
@@ -19,19 +18,12 @@ Step 4 − Child process retrieves the message from the pipe and writes it to th
 
 Step 5 − Repeat step 3 and step 4 once again.
 
-## Output1
-
-![output_image](/.github/out_img/p_05_out.png)
 
 # 2. Sorting using pipe() communication
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/pipe/6.pipe_sort.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/raw/master/InterProcessCommunication/pipe/6.pipe_sort.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/Network-Programming-lab/blob/master/InterProcessCommunication/pipe/README.md#output2)
 
-## Output2
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/sort.c.txt)
 
-![output_image](/.github/out_img/p_06_out.png)
 
 ## Theory
 
