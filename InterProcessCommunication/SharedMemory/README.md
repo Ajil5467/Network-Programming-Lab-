@@ -11,7 +11,7 @@ Client
 Server
 
 
-[![code](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/SharedMemory/server.c.txt)
+[![code](https://img.shields.io/badge/-code-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/SharedMemory/server.c.txt)
 
 
 ## Theory
