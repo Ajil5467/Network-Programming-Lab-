@@ -22,7 +22,7 @@ Step 5 − Repeat step 3 and step 4 once again.
 # 2. Sorting using pipe() communication
 
 
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/sort.c.txt)
+[![code](https://img.shields.io/badge/-code-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/sort.c.txt)
 
 
 ## Theory
