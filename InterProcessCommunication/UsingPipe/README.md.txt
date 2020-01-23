@@ -159,9 +159,3 @@ When we use fork in any process, file descriptors remain open across child proce
 - **S_IXUSR**
   execute/search permission, owner
 - **S_IRWXU** is the bitwise OR of **S_IRUSR**, **S_IWUSR** and **S_IXUSR**.
-
-### References:
-
-- [GeeksForGeeks](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
-- [OpenGroup](http://pubs.opengroup.org/onlinepubs/7908799/xsh/open.html)
-- [opengroup 2](http://pubs.opengroup.org/onlinepubs/7908799/xsh/sysstat.h.html)
