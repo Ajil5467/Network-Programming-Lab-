@@ -3,12 +3,12 @@ KTU Network Programming Lab
 
 # Inter Process Communication
 
-- [Using pipe()](https://github.com/Ajil5467/Network-Programming-Lab-/edit/master/InterProcessCommunication/SharedMemory/README.md)
+- [Using pipe()](https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/InterProcessCommunication/UsingPipe)
 
 
-- [Using SharedMemory](SharedMemory/README.md)
+- [Using SharedMemory](https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/InterProcessCommunication/SharedMemory)
 
-# SocketProgramming
+# SocketProgramming(https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/SocketProgramming/ClientServerCommunication/TCP)
 
 
 # VIVA
