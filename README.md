@@ -8,7 +8,7 @@ KTU Network Programming Lab
 
 - [Using SharedMemory](https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/InterProcessCommunication/SharedMemory)
 
-# SocketProgramming(https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/SocketProgramming/ClientServerCommunication/TCP)
+# - SocketProgramming(https://github.com/Ajil5467/Network-Programming-Lab-/tree/master/SocketProgramming/ClientServerCommunication/TCP)
 
 
 # VIVA
