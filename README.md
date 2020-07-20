@@ -2,7 +2,7 @@
 KTU Network Programming Lab 
 
 
-COMPUTER NETWORK
+VIVA
 
 1\. Explain What is Network?
 
