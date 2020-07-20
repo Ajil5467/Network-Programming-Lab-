@@ -13,6 +13,8 @@ KTU Network Programming Lab
 
 # VIVA
 
+
+
 1\. Explain What is Network?
 
 A network is a set of devices connected by physical media links. A network is recursively is a connection of two or more nodes by a physical link or two or more networks connected by one or more nodes.
@@ -53,7 +55,9 @@ e. Collaborative Processing
 
 a. Performance
 
-It can be measured in many ways, including transmit time and response time. b. Reliability
+It can be measured in many ways, including transmit time and response time.
+
+ b. Reliability
 
 It is measured by frequency of failure, the time it takes a link to recover from a failure, and the networks robustness.
 
