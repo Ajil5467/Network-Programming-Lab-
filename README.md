@@ -1,8 +1,15 @@
 # Network-Programming-Lab-
 KTU Network Programming Lab 
 
+# Inter Process Communication
 
-VIVA
+- [Using pipe()](UsingPipe/README.md)
+- [Using SharedMemory](SharedMemory/README.md)
+
+# SocketProgramming
+
+
+# VIVA
 
 1\. Explain What is Network?
 
