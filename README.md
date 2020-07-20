@@ -3,9 +3,8 @@ KTU Network Programming Lab
 
 # Inter Process Communication
 
-- [Using pipe()]
-[![code](https://img.shields.io/badge/-code-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/message.c.txt)
-[![code](https://img.shields.io/badge/-code-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/Ajil5467/Network-Programming-Lab-/blob/master/InterProcessCommunication/UsingPipe/message.c.txt)
+- [Using pipe()](https://github.com/Ajil5467/Network-Programming-Lab-/edit/master/InterProcessCommunication/SharedMemory/README.md)
+
 
 - [Using SharedMemory](SharedMemory/README.md)
 
